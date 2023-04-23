@@ -1,2 +1,2 @@
 # Signpost
-Signpost resolution projet for ENSTA Paris "RO203" course
+Signpost resolution project for ENSTA Paris "RO203" course
